@@ -1,6 +1,5 @@
 <div align="center">
   
-### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Blaka+Hollow&size=40&color=9FB5F7&background=FF79EF00&lines=Hello!+Have+a+good+day!)](https://git.io/typing-svg)
 <!--
 **Insori/Insori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
