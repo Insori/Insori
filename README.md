@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insori&show_icons=true&theme=github_dark)
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insori&layout=compact&theme=github_dark)
-#
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FInsori&count_bg=%235B80E9&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+
 </div>
   
