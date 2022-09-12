@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Blaka+Hollow&size=40&color=9FB5F7&background=FF79EF00&lines=Hello!+Have+a+good+day!)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sori%20In&fontSize=90)
 <!--
 **Insori/Insori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
